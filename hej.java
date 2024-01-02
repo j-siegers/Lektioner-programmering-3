@@ -33,7 +33,7 @@ class Hej2 {
 class Adress {
     public static void main(String[] arg) {
 
-        String s1 = "Johan Siegers", s2 = "Ålgrytebacken 7", s3 = "0736917627", s4 = s1 + "\n" + s2 + "\n" + s3 + "\n";
+        String s1 = "Johan S", s2 = "Bergsvägen 2", s3 = "01234567", s4 = s1 + "\n" + s2 + "\n" + s3 + "\n";
         System.out.println(s4);
 
         // Övn 2,7
